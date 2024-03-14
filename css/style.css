@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap');
+
+body {
+    background-image: linear-gradient(rgba(218, 202, 243, 0.111), rgba(38, 65, 79, 0.427), rgba(0, 0, 0, 0.521)),
+        url(https://www.hdwallpapers.in/download/beautiful_anime_couple_with_uniform_pigeon_birds_white_clouds_blue_sky_background_4k_hd_anime_couple-3840x2160.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    padding: 12px;
+    
+
+}
+
+
+h1 {
+
+
+    font-family: 'Dancing Script', cursive;
+    font-size: 75px;
+    color: rgb(242, 242, 245);
+    margin-left: 30px;
+}
+
+h2 {
+
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    color: rgb(255, 148, 202);
+
+}
+
+
+
+p {
+    font-size: 40px;
+    font-family: 'Cormorant Upright', serif;
+    color: rgb(255, 232, 230);
+}
+
+
+p1 {
+    font-family: "Lovers Quarrel", cursive;
+    font-size: 50px;
+    font-weight:300;
+    color: rgb(255, 232, 230);
+}
+
